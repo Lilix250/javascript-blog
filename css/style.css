@@ -107,4 +107,30 @@ body {
 .post-tags p {
   margin: 0 10px 0 0;
 }
+
+.tag-size-1 {
+  font-size: 16px;
+  color: orange;
+}
+
+.tag-size-2 {
+  font-size: 21px;
+  color: green;
+}
+
+.tag-size-3 {
+  font-size: 26px;
+  color: red;
+}
+
+/*Authors*/
+.author-size-1 {
+  font-size: 16px;
+  color: green;
+}
+
+.author-size-2 {
+  font-size: 22px;
+  color: red;
+}
 /*# sourceMappingURL=style.css.map */
